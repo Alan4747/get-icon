@@ -1,6 +1,7 @@
 # How to use API?
 
-You can view all icon names at this url: <a href="get-icons.herokuapp.com/">https://get-icons.herokuapp.com/</a>
+- You can view all icon names at this url: <a href="get-icons.herokuapp.com/">https://get-icons.herokuapp.com/</a>
+- This api returns a single result.
 
 ## Example: 
     
