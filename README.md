@@ -7,3 +7,5 @@ You can view all icon names at this url: <a href="get-icons.herokuapp.com/"> get
      https://get-icon.herokuapp.com/{iconName}.svg
 
   - <a href="#"> https://get-icon.herokuapp.com/alarm.svg</a>
+
+   <img src="https://github.com/Alan4747/get-icon/blob/master/iconExample.png"/>
